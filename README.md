@@ -1,7 +1,7 @@
 # 🧬 Predicting Ebola Outbreak Metrics using Machine Learning  
 *A Submission for the IIT Bombay ML Challenge*
 
-This project focuses on predicting critical metrics related to Ebola outbreaks — **Deaths**, **Case Fatality Ratio (CFR)**, and **Confirmed Cases** — using geospatial data and machine learning models. The solution was developed and submitted for the **TopG ML competition** hosted by **IIT Bombay**.
+This project focuses on predicting critical metrics related to Ebola outbreaks — **Deaths**, **Case Fatality Ratio (CFR)**, and **Confirmed Cases** — using geospatial data and machine learning models. The solution was developed and submitted for the **Predictioneer ML competition** hosted by **IIT Bombay**.
 
 ---
 
